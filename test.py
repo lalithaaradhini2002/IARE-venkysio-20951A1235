@@ -1,0 +1,7 @@
+x=int(input())
+y=int(input())
+m=int(input())
+u=int(input())
+v=int(input())
+div=(m*y/x)
+print(div/v*u)
